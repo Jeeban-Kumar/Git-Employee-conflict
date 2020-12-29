@@ -9,5 +9,7 @@ public class Employee {
 	private Integer empId;
 	private String empName;
 	private String job;
+	private Integer age;
 	private Double salary;
+	private String address;
 }
